@@ -53,12 +53,68 @@ I am a Flutter Developer with 5+ years of experience and a demonstrated history 
 > *** Stats***
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%207%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-245%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
+🌆 Daytime    74 commits     ███████░░░░░░░░░░░░░░░░░░   29.37% 
+🌃 Evening    78 commits     ███████░░░░░░░░░░░░░░░░░░   30.95% 
+🌙 Night      56 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Tuesday      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Thursday     55 commits     █████░░░░░░░░░░░░░░░░░░░░   21.83% 
+Friday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
+Saturday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     56 mins             █████████████████████████   100.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+Android Studio           56 mins             █████████████████████████   100.0% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🐱‍💻 Projects: 
+ns_puzzle                56 mins             █████████████████████████   100.0% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Mac                      56 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 21/08/2022 02:52:45 UTC
 <!--END_SECTION:waka-->
 
 
 > ***📕 Latest Blog Posts***
 
 <!-- BLOG-POST-LIST:START -->
+- [Passwordless Email Sign in using Flutter and Firebase](https://medium.com/nonstopio/passwordless-email-sign-in-using-flutter-and-firebase-36f159c9d1aa?source=rss-809bf38703df------2)
+- [Flutter: Fabricating coding standards in your organization](https://medium.com/nonstopio/flutter-fabricating-coding-standards-in-your-organization-f209a4a5a84e?source=rss-809bf38703df------2)
+- [Are you learning something new?](https://medium.com/nonstopio/are-you-learning-something-new-e2729d63acbd?source=rss-809bf38703df------2)
+- [Are Developers Not Good Testers?](https://medium.com/nonstopio/are-developers-not-good-testers-fd69a788e40?source=rss-809bf38703df------2)
+- [Flutter:-Dart’s Awesome Extension Methods](https://medium.com/nonstopio/flutter-darts-awesome-extension-methods-299caf8e50c6?source=rss-809bf38703df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
