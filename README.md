@@ -59,6 +59,11 @@ I am a Flutter Developer with 5+ years of experience and a demonstrated history 
 > ***📕 Latest Blog Posts***
 
 <!-- BLOG-POST-LIST:START -->
+- [Passwordless Email Sign in using Flutter and Firebase](https://medium.com/nonstopio/passwordless-email-sign-in-using-flutter-and-firebase-36f159c9d1aa?source=rss-809bf38703df------2)
+- [Flutter: Fabricating coding standards in your organization](https://medium.com/nonstopio/flutter-fabricating-coding-standards-in-your-organization-f209a4a5a84e?source=rss-809bf38703df------2)
+- [Are you learning something new?](https://medium.com/nonstopio/are-you-learning-something-new-e2729d63acbd?source=rss-809bf38703df------2)
+- [Are Developers Not Good Testers?](https://medium.com/nonstopio/are-developers-not-good-testers-fd69a788e40?source=rss-809bf38703df------2)
+- [Flutter:-Dart’s Awesome Extension Methods](https://medium.com/nonstopio/flutter-darts-awesome-extension-methods-299caf8e50c6?source=rss-809bf38703df------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
