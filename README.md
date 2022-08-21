@@ -50,16 +50,100 @@ I am a Flutter Developer with 5+ years of experience and a demonstrated history 
 <br />
 <br />
 
+> *** Stats***
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2017%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-245%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 121 Contributions in the Year 2022
+ > 
+> 📦 72.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    55 commits     █████░░░░░░░░░░░░░░░░░░░░   20.91% 
+🌆 Daytime    74 commits     ███████░░░░░░░░░░░░░░░░░░   28.14% 
+🌃 Evening    78 commits     ███████░░░░░░░░░░░░░░░░░░   29.66% 
+🌙 Night      56 commits     █████░░░░░░░░░░░░░░░░░░░░   21.29%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Tuesday      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Thursday     55 commits     █████░░░░░░░░░░░░░░░░░░░░   20.91% 
+Friday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
+Saturday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Sunday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Dart                     56 mins             █████████████████████████   100.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+Android Studio           56 mins             █████████████████████████   100.0% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🐱‍💻 Projects: 
+ns_puzzle                56 mins             █████████████████████████   100.0% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Mac                      56 mins             █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     22 repos            ████████████████████░░░░░   81.48% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ajaykumargithub2114/ajaykumargithub2114/main/charts/bar_graph.png) 
+
+
+ Last Updated on 21/08/2022 04:03:13 UTC
+<!--END_SECTION:waka-->
+
 
 > ***📕 Latest Blog Posts***
 
 <!-- BLOG-POST-LIST:START -->
+- [Passwordless Email Sign in using Flutter and Firebase](https://medium.com/nonstopio/passwordless-email-sign-in-using-flutter-and-firebase-36f159c9d1aa?source=rss-809bf38703df------2)
+- [Flutter: Fabricating coding standards in your organization](https://medium.com/nonstopio/flutter-fabricating-coding-standards-in-your-organization-f209a4a5a84e?source=rss-809bf38703df------2)
+- [Are you learning something new?](https://medium.com/nonstopio/are-you-learning-something-new-e2729d63acbd?source=rss-809bf38703df------2)
+- [Are Developers Not Good Testers?](https://medium.com/nonstopio/are-developers-not-good-testers-fd69a788e40?source=rss-809bf38703df------2)
+- [Flutter:-Dart’s Awesome Extension Methods](https://medium.com/nonstopio/flutter-darts-awesome-extension-methods-299caf8e50c6?source=rss-809bf38703df------2)
 <!-- BLOG-POST-LIST:END -->
-
-> *** Stats***
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <br />
 
