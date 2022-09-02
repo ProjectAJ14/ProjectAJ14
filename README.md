@@ -15,7 +15,6 @@ I am a Flutter Developer with 5+ years of experience and a demonstrated history 
 
 - 👨🏾‍💻 I'm currently working as Tech Lead Flutter Developer at NonStop io Technologies</span>
 - 🌱 I’m currently learning Swift</span>
-- 🔥 2022 Goals - Create a youtube channel
 - ❤️ I love to travel and code.
 - ⚡ “The more I learn, the more I realize how much I don't know.”
  ― Albert Einstein
@@ -52,8 +51,21 @@ I am a Flutter Developer with 5+ years of experience and a demonstrated history 
 <br />
 <br />
 
+> *** 📹 Youtube ***
 
-> ***📕 Latest Blog Posts***
+
+- [Passwordless authentication in Flutter with Firebase using dynamic links](https://www.youtube.com/watch?v=JHTSgFl8VH0)
+
+[<img src="https://img.shields.io/youtube/channel/subscribers/UCyV2fy32RyPgOco83tMkR-g?style=social" />][youtube]
+[<img src="https://img.shields.io/youtube/channel/views/UCyV2fy32RyPgOco83tMkR-g?style=social" />][youtube]
+
+
+-----------
+
+<br />
+<br />
+
+> *** 📕 Latest Blog Posts***
 
 <!-- BLOG-POST-LIST:START -->
 - [Passwordless Email Sign in using Flutter and Firebase](https://blog.nonstopio.com/passwordless-email-sign-in-using-flutter-and-firebase-36f159c9d1aa?source=rss-809bf38703df------2)
@@ -170,5 +182,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 [code_magic]: https://codemagic.io/start/
 [android]: https://android.com/
 [ios]: https://developer.apple.com/
+[youtube]: https://studio.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g
 
 ![](https://hit.yhype.me/github/profile?user_id=35396392)
