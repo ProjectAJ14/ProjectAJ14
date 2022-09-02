@@ -182,6 +182,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 [code_magic]: https://codemagic.io/start/
 [android]: https://android.com/
 [ios]: https://developer.apple.com/
-[youtube]: https://studio.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g
+[youtube]: https://www.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g
 
 ![](https://hit.yhype.me/github/profile?user_id=35396392)
