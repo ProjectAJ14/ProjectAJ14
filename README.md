@@ -2,7 +2,7 @@
 
 I am a Flutter Developer with 5+ years of experience and a demonstrated history of leading high performing teams to develop mobile applications and libraries using Google's Flutter framework since its inception.
 
-![](https://komarev.com/ghpvc/?username=ProjectAJ14&label=PROFILE+VIEWS)
+![](https://profile-counter.glitch.me/ProjectAJ14/count.svg)
 
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
