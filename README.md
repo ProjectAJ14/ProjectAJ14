@@ -15,7 +15,7 @@ I am a Flutter Developer with 5+ years of experience and a demonstrated history 
 
 - 👨🏾‍💻 I'm currently working as Tech Lead Flutter Developer at NonStop io Technologies</span>
 - 🌱 I’m currently learning Swift</span>
-- ❤️ I love to travel and code.
+- ❤️ I love to code&travel.
 - ⚡ “The more I learn, the more I realize how much I don't know.”
  ― Albert Einstein
 
