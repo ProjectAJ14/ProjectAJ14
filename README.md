@@ -110,15 +110,13 @@ Sunday                   337 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 28 mins             ███████████████████████░░   91.68 % 
-Dart                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -134,7 +132,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2023 18:40:20 UTC
+ Last Updated on 04/06/2023 18:40:13 UTC
 <!--END_SECTION:waka-->
 
 <br />
