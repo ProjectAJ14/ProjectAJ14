@@ -30,7 +30,7 @@ I am a Flutter Developer with 5+ years of experience and a demonstrated history 
 [<img src="https://img.shields.io/static/v1?message=Android&logo=android&labelColor=18a096&color=18a096&label=%20&style=for-the-badge" />][android]
 [<img src="https://img.shields.io/static/v1?message=IOS&logo=apple&labelColor=1DACF9&color=1DACF9&label=%20&style=for-the-badge" />][ios]
 [<img src="https://img.shields.io/static/v1?message=Firebase&logo=Firebase&labelColor=F47C01&color=F47C01&label=%20&style=for-the-badge" />][firebase]
-[<img src="https://img.shields.io/static/v1?message=Fastlane&logo=Fastlane&labelColor=090847&color=090847&label=%20&style=for-the-badge" />][firebase]
+[<img src="https://img.shields.io/static/v1?message=Fastlane&logo=Fastlane&labelColor=090847&color=090847&label=%20&style=for-the-badge" />][fastlane]
 [<img src="https://img.shields.io/static/v1?message=Code Magic&logo=Code Magic&labelColor=FF3FCC&color=FF3FCC&label=%20&style=for-the-badge" />][code_magic]
 [<img src="https://img.shields.io/static/v1?message=CICD&logo=CICD&labelColor=5F3485&color=5F3485&label=%20&style=for-the-badge" />][code_magic]
 [<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>][google cloud]
