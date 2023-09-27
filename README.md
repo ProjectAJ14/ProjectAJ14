@@ -1,13 +1,13 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am a Flutter Developer with 6+ years of experience and a demonstrated history of leading high performing teams to develop mobile applications and libraries using Google's Flutter framework since its inception.
 
-# 💫 About Me:
+# 💫 About Me
 👨🏾‍💻 I'm currently working as Tech Lead Flutter Developer at NonStop io Technologies<br>🌱 I’m currently learning Swift<br>❤️ I love to travel.<br>⚡ “The more I learn, the more I realize how much I don't know.” ― Albert Einstein
 
 [![](https://visitcount.itsvg.in/api?id=projectaj14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/projectaj14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaykumar2114) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ajay.kumar_14) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2868455) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AjayK_14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCyV2fy32RyPgOco83tMkR-g) 
 
 # 💻 Tech Stack:
@@ -16,7 +16,7 @@ I am a Flutter Developer with 6+ years of experience and a demonstrated history 
 -----------
 </br>
 
-> *** 📹 Youtube ***
+# 📹 Youtube
 
 
 - [Passwordless authentication in Flutter with Firebase using dynamic links](https://www.youtube.com/watch?v=JHTSgFl8VH0)
@@ -27,7 +27,7 @@ I am a Flutter Developer with 6+ years of experience and a demonstrated history 
 -----------
 </br>
 
-> *** 📕 Latest Blog Posts***
+# 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Flutter’s Device Preview: Get a Sneak Peek of Your App’s Appearance on Any Device](https://blog.nonstopio.com/flutters-device-preview-get-a-sneak-peek-of-your-app-s-appearance-on-any-device-c55526604588?source=rss-809bf38703df------2)
@@ -40,7 +40,7 @@ I am a Flutter Developer with 6+ years of experience and a demonstrated history 
 -----------
 </br>
 
-> *** Stats***
+# Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%206%20mins-blue)
@@ -103,7 +103,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 </br>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ProjectAj14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProjectAj14&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectAj14&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -120,7 +120,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## 💰 You can help me by Donating
+### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/projectaj) 
 
 
