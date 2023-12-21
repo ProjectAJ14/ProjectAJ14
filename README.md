@@ -64,14 +64,13 @@ Sunday                   361 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     56 mins             ███████████████████████░░   91.83 % 
-textmate                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Studio                   1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -87,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2023 18:40:32 UTC
+ Last Updated on 21/12/2023 18:40:14 UTC
 <!--END_SECTION:waka-->
 
 ### 😂 Random Dev Meme
