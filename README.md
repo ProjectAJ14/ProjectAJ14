@@ -33,7 +33,7 @@ I am a Flutter Developer with 6+ years of experience and a demonstrated history 
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -64,14 +64,17 @@ Sunday                   123 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     1 hr 33 mins        ███████████████████████░░   93.30 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Dart                     3 hrs 21 mins       ██████████████████████░░░   89.38 % 
+Docker                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Android Studio           1 hr 40 mins        █████████████████████████   100.00 % 
+Android Studio           3 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -87,7 +90,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 18:35:47 UTC
+ Last Updated on 24/01/2024 18:35:23 UTC
 <!--END_SECTION:waka-->
 
 ### 😂 Random Dev Meme
