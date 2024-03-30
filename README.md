@@ -33,7 +33,7 @@ I am a Flutter Developer with 6+ years of experience and a demonstrated history 
 # Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -64,14 +64,14 @@ Sunday                   123 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     2 hrs 16 mins       █████████████████████████   99.54 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Dart                     46 mins             █████████████████████████   98.68 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 16 mins       █████████████████████████   100.00 % 
+Android Studio           47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -87,7 +87,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2024 18:34:49 UTC
+ Last Updated on 30/03/2024 18:34:43 UTC
 <!--END_SECTION:waka-->
 
 ### 😂 Random Dev Meme
