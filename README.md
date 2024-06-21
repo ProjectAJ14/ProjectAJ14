@@ -23,11 +23,11 @@ I am a Flutter Developer with 6+ years of experience and a demonstrated history 
 # 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use environment variables in Flutter?](https://blog.nonstopio.com/how-to-use-environment-variables-in-flutter-90cfc882177d?source=rss-809bf38703df------2)
 - [Flutter’s Device Preview: Get a Sneak Peek of Your App’s Appearance on Any Device](https://blog.nonstopio.com/flutters-device-preview-get-a-sneak-peek-of-your-app-s-appearance-on-any-device-c55526604588?source=rss-809bf38703df------2)
 - [Discover How Flutter is Built with Dart Using the Power of S.O.L.I.D Principles!](https://blog.nonstopio.com/discover-how-flutter-is-built-with-dart-using-the-power-of-s-o-l-i-d-principles-459781210913?source=rss-809bf38703df------2)
 - [Host Flutter Web on Github Pages using Github Actions #FREE](https://blog.nonstopio.com/host-flutter-web-on-github-pages-using-github-actions-free-168585ec2981?source=rss-809bf38703df------2)
 - [Exploring Flutter 3.3](https://blog.nonstopio.com/exploring-the-new-flutter-3-3-4d9e0fd062ff?source=rss-809bf38703df------2)
-- [Passwordless Email Sign in using Flutter and Firebase](https://blog.nonstopio.com/passwordless-email-sign-in-using-flutter-and-firebase-36f159c9d1aa?source=rss-809bf38703df------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
