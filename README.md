@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ajay Kumar
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Flutter expert with 6+ years in the field. Led teams building mobile apps and libraries using Flutter since its early days. Skilled at guiding developers to create high-quality Flutter projects.
 
 # 🌱 What I'm currently learning
@@ -9,13 +9,23 @@
 
 ### I'm available to speak at events or join panel discussions to share technical knowledge. Feel free to reach out if you need a Flutter expert for your conference or meetup.
 
-## 🔥 My Talks and Workshops
+## 🔥 Recent Talks and Workshops
 - [Flutter & AI Fusion: Powering Apps with Intelligence](https://www.linkedin.com/posts/ajaykumar2114_flutter-flutternagpur-fluttercommunity-activity-7167534526716428288-DBK4?utm_source=share&utm_medium=member_desktop)
 - [Debug Like a Pro: Harnessing the Power of Dart DevTools in Flutter]()
 - [Flutter Go Router In Depth]()
 - [Flutter Workshop: Consuming APIs like an Expert]()
 - [Git For Kids]()
 - [Flutter Workshop: Mastering Flutter BLoC]()
+
+## ❤️ Fan of Open Source
+
+- [timer_button](https://pub.dev/packages/timer_button) - A versatile Flutter package that provides a timer button widget, which becomes enabled after a specified time delay.
+- [connectivity_wrapper](https://pub.dev/packages/connectivity_wrapper) - This plugin allows Flutter apps provide feedback on your app when it's not connected to it, or when there's no connection.
+- [ns_utils](https://pub.dev/packages/ns_utils) -  ns_utils is a powerful Flutter utility library that simplifies and enhances your Flutter app development experience.
+- [ns_firebase_utils](https://pub.dev/packages/ns_firebase_utils) - This package provides a comprehensive set of methods and extensions for Firebase, simplifying its integration into your Flutter projects while also adding valuable functionality.
+- [ns_upi](https://pub.dev/packages/ns_upi) - Find installed UPI payment apps on your phone and make payments using any one of them.
+
+I value collaborative development and actively seek open-source projects that match my principles. I'm eager to contribute code, documentation, or technical expertise to initiatives I believe in.
 
 # 📹 Youtube [<img src="https://img.shields.io/youtube/channel/subscribers/UCyV2fy32RyPgOco83tMkR-g?style=social" />][youtube] [<img src="https://img.shields.io/youtube/channel/views/UCyV2fy32RyPgOco83tMkR-g?style=social" />][youtube]
 
