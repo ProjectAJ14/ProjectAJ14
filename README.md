@@ -131,9 +131,6 @@ MDX                      1 repo              ░░░░░░░░░░░�
 Last Updated on 30/06/2024 18:37:16 UTC
 <!--END_SECTION:waka-->
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### 💰 You can help me by Donating
 
