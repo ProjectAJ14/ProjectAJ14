@@ -104,15 +104,13 @@ Sunday                   153 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     9 mins              ████████████████████████░   94.06 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -128,7 +126,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2024 18:39:22 UTC
+ Last Updated on 22/09/2024 18:39:14 UTC
 <!--END_SECTION:waka-->
 
 
