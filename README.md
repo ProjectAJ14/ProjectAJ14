@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Flutter expert with 6+ years in the field. Led teams building mobile apps and libraries using Flutter since its early days. Skilled at guiding developers to create high-quality Flutter projects.
+### Flutter expert with 7+ years in the field. Led teams building mobile apps and libraries using Flutter since its early days. Skilled at guiding developers to create high-quality Flutter projects.
 
 # 🌱 What I'm currently learning
 
@@ -11,7 +11,7 @@ eye! 🚀
 <br>
 ⚡ “The more I learn, the more I realize how much I don't know.” ― Albert Einstein
 
-### I'm available to speak at events or join panel discussions to share technical knowledge. Feel free to reach out if you need a Flutter expert for your conference or meetup.
+> **Note:** I'm available to speak at events or join panel discussions to share technical knowledge. Feel free to reach out if you need a Flutter expert for your conference or meetup. I'm available to speak at events or join panel discussions to share technical knowledge. Feel free to reach out if you need a Flutter expert for your conference or meetup.
 
 ## 🔥 Recent Talks and Workshops
 
