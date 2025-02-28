@@ -9,7 +9,7 @@ excited to share knowledge and learn new tricks in the Flutter ecosystem. What's
 eye! 🚀
 
 <br>
-⚡ “The more I learn, the more I realize how much I don't know.” ― Albert Einstein
+⚡ "The more I learn, the more I realize how much I don't know." ― Albert Einstein
 <br>
 
 > **Note:** I'm available to speak at events or join panel discussions to share technical knowledge. Feel free to reach out if you need a Flutter expert for your conference or meetup. I'm available to speak at events or join panel discussions to share technical knowledge. Feel free to reach out if you need a Flutter expert for your conference or meetup.
@@ -36,6 +36,9 @@ eye! 🚀
   functionality.
 - [ns_upi](https://pub.dev/packages/ns_upi) - Find installed UPI payment apps on your phone and make payments using any
   one of them.
+- [nonstop_cli](https://pub.dev/packages/nonstop_cli) - A command-line interface for the Flutter Framework to generate Flutter projects, features and schemas.
+- [flutter_diff_action](https://github.com/ProjectAJ14/flutter_diff_action) - Run Flutter/Dart commands with diff checking capabilities.
+- [flutter-coverage-action](https://github.com/marketplace/actions/flutter-coverage-action) - A GitHub Action to generate and deploy coverage reports to GitHub Pages with style! ✨
 
 I value collaborative development and actively seek open-source projects that match my principles. I'm eager to
 contribute code, documentation, or technical expertise to initiatives I believe in.
@@ -49,7 +52,7 @@ contribute code, documentation, or technical expertise to initiatives I believe 
 <!-- BLOG-POST-LIST:START -->
 - [Deep Dive into Flutter Create](https://blog.nonstopio.com/deep-dive-into-flutter-create-f629f3926d82?source=rss-809bf38703df------2)
 - [How to use environment variables in Flutter?](https://blog.nonstopio.com/how-to-use-environment-variables-in-flutter-90cfc882177d?source=rss-809bf38703df------2)
-- [Flutter’s Device Preview: Get a Sneak Peek of Your App’s Appearance on Any Device](https://blog.nonstopio.com/flutters-device-preview-get-a-sneak-peek-of-your-app-s-appearance-on-any-device-c55526604588?source=rss-809bf38703df------2)
+- [Flutter's Device Preview: Get a Sneak Peek of Your App's Appearance on Any Device](https://blog.nonstopio.com/flutters-device-preview-get-a-sneak-peek-of-your-app-s-appearance-on-any-device-c55526604588?source=rss-809bf38703df------2)
 - [Discover How Flutter is Built with Dart Using the Power of S.O.L.I.D Principles!](https://blog.nonstopio.com/discover-how-flutter-is-built-with-dart-using-the-power-of-s-o-l-i-d-principles-459781210913?source=rss-809bf38703df------2)
 - [Host Flutter Web on Github Pages using Github Actions #FREE](https://blog.nonstopio.com/host-flutter-web-on-github-pages-using-github-actions-free-168585ec2981?source=rss-809bf38703df------2)
 <!-- BLOG-POST-LIST:END -->
@@ -141,7 +144,7 @@ D2                       1 repo              ░░░░░░░░░░░�
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/projectaj)
 
 
-[instagram]: https://www.instagram.com/ajaycodex
+[instagram]: https://www.instagram.com/iajaykumar_14
 
 [linkedin]: https://linkedin.com/in/ajaykumar2114
 
