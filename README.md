@@ -150,7 +150,3 @@ D2                       1 repo              ░░░░░░░░░░░�
 [youtube]: https://www.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g
 
 [twitter]: https://twitter.com/AjayK_14
-
-
-
-
