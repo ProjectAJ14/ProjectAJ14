@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Ajay Kumar — Full-stack engineer. From the first screen to the last mile. Web, backend, data, cloud and mobile." width="100%" />
+  <img src="assets/profile-header.svg" alt="Ajay Kumar — Full-stack engineer. From the first screen to the last mile. Web, backend, data, cloud and mobile." width="79%" />
+  <a href="https://github.com/ProjectAJ14"><img src="https://avatars.githubusercontent.com/u/35396392?v=4&amp;s=240" alt="Ajay Kumar’s GitHub profile photo" width="18%" /></a>
 </p>
 
 # Hey, I'm Ajay.
 
 **Full-stack engineer · 10+ years building software · Open-source builder & speaker**
 
-I build products end to end: the interface people use, the APIs behind it, the data they depend on, and the path to production. My work spans React and TypeScript, Java and Spring Boot, databases, cloud, and mobile.
+I build products end to end: the interface people use, the APIs behind it, the data they depend on, and the path to production. Right now, most of my work is in **React / TypeScript** and **Java / Spring Boot**, with databases, cloud, and mobile rounding out the stack.
 
 Flutter has been a big part of my journey. These days, I work across the stack, and I still enjoy turning the awkward, repetitive parts of development into tools other people can use.
 
@@ -14,38 +15,61 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ---
 
+## What I'm working on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 <a href="https://github.com/ProjectAJ14/eklavya">Eklavya</a></h3>
+<p>A Claude Code plugin that helps you understand the code your agent writes, with adaptive questions and a local knowledge graph.</p>
+<p><sub>TypeScript · Developer tools · Learning</sub></p>
+<a href="https://eklavya-run.web.app/docs/">Read the docs →</a>
+</td>
+<td width="50%" valign="top">
+<h3>✍️ <a href="https://github.com/ProjectAJ14/Morph">Morph</a></h3>
+<p>Copy a rough message, hit a shortcut, and paste a version formatted for Slack, Teams, or Markdown.</p>
+<p><sub>TypeScript · Desktop · AI</sub></p>
+<a href="https://projectaj14.github.io/Morph/">Get the app →</a>
+</td>
+</tr>
+</table>
+
+---
+
 ## My toolbox
 
-**Web & UI**
+<p align="center">
+  <strong>My daily stack</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,ts,java,spring&amp;theme=dark" alt="React, TypeScript, Java, Spring Boot" height="56" /><br />
+  <sub>React & TypeScript on the frontend · Java & Spring Boot on the backend</sub>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI" height="44" />
-
-<sub>React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI</sub>
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,django,firebase&amp;theme=dark" alt="Java, Spring Boot, Node.js, Django, Firebase" height="44" />
-
-<sub>Java, Spring Boot, Node.js, Django, Firebase</sub>
-
-**Data & delivery**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,gcp,docker,githubactions&amp;theme=dark" alt="MongoDB, MySQL, SQLite, Google Cloud, Docker, GitHub Actions" height="44" />
-
-<sub>MongoDB, MySQL, SQLite, Google Cloud, Docker, GitHub Actions</sub>
-
-**Mobile & desktop**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,electron&amp;theme=dark" alt="Flutter, Dart, Kotlin, Swift, Electron" height="44" />
-
-<sub>Flutter, Dart, Kotlin, Swift, Electron</sub>
-
-**Everyday tools**
-
-<img src="https://skillicons.dev/icons?i=git,linux,jenkins,figma,html,css&amp;theme=dark" alt="Git, Linux, Jenkins, Figma, HTML, CSS" height="44" />
-
-<sub>Git, Linux, Jenkins, Figma, HTML, CSS</sub>
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>Web & APIs</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=nextjs,js,tailwind,materialui,nodejs,django&amp;perline=3&amp;theme=dark" alt="Next.js, JavaScript, Tailwind CSS, MUI, Node.js, Django" width="140" />
+<p><sub>Next.js · JavaScript · Tailwind · MUI · Node.js · Django</sub></p>
+</td>
+<td width="50%" valign="top">
+<strong>Data & cloud</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,gcp,docker&amp;perline=3&amp;theme=dark" alt="Firebase, MongoDB, MySQL, SQLite, Google Cloud, Docker" width="140" />
+<p><sub>Firebase · MongoDB · MySQL · SQLite · Google Cloud · Docker</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Mobile & desktop</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,electron&amp;perline=3&amp;theme=dark" alt="Flutter, Dart, Kotlin, Swift, Electron" width="140" />
+<p><sub>Flutter · Dart · Kotlin · Swift · Electron</sub></p>
+</td>
+<td width="50%" valign="top">
+<strong>Tools & delivery</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=git,githubactions,linux,jenkins,figma&amp;perline=3&amp;theme=dark" alt="Git, GitHub Actions, Linux, Jenkins, Figma" width="140" />
+<p><sub>Git · GitHub Actions · Linux · Jenkins · Figma</sub></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,25 +99,6 @@ The home of much of my Dart and Flutter package work: NonStop CLI, dzod, html_ri
 [Explore the packages](https://github.com/nonstopio/flutter_forge/tree/main/packages) &nbsp; / &nbsp; [CLI starter](https://github.com/nonstopio/flutter_forge/pull/44) &nbsp; / &nbsp; [dzod](https://github.com/nonstopio/flutter_forge/pull/26) &nbsp; / &nbsp; [My commits](https://github.com/nonstopio/flutter_forge/commits?author=ProjectAJ14)
 
 ---
-
-## More things I've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/ProjectAJ14/eklavya">Eklavya</a></h3>
-<p>A Claude Code plugin that helps you understand the code your agent writes, with adaptive questions and a local knowledge graph.</p>
-<p><sub>TypeScript · Developer tools · Learning</sub></p>
-<a href="https://eklavya-run.web.app/docs/">Read the docs →</a>
-</td>
-<td width="50%" valign="top">
-<h3>✍️ <a href="https://github.com/ProjectAJ14/Morph">Morph</a></h3>
-<p>Copy a rough message, hit a shortcut, and paste a version formatted for Slack, Teams, or Markdown.</p>
-<p><sub>TypeScript · Desktop · AI</sub></p>
-<a href="https://projectaj14.github.io/Morph/">Get the app →</a>
-</td>
-</tr>
-</table>
 
 **[Flutter Coverage Action](https://github.com/ProjectAJ14/flutter-coverage-action)** — Browsable Flutter coverage reports on GitHub Pages. [See a report ↗](https://projectaj14.github.io/flutter-coverage-action/coverage/)
 
@@ -131,70 +136,31 @@ I write, make videos, and run technical sessions. Past talks and workshops have 
 - [Host Flutter Web on Github Pages using Github Actions #FREE](https://blog.nonstopio.com/host-flutter-web-on-github-pages-using-github-actions-free-168585ec2981?source=rss-809bf38703df------2)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-<summary>Activity stats</summary>
+<details open>
+<summary><b>Activity & current focus</b></summary>
 
-These automated stats reflect tracked activity and public repositories, rather than the full range of my work.
+**Mostly building with React, TypeScript, Java, and Spring Boot.** Codex is part of my daily workflow.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C254%20hrs%2055%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
+My typical coding routine, estimated by me:
 
 ```text
-🌞 Morning                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                859 commits         ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌃 Evening                1080 commits        ██████████░░░░░░░░░░░░░░░   41.80 % 
-🌙 Night                  307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   673 commits         ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Tuesday                  598 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Wednesday                180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Thursday                 316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Friday                   541 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Saturday                 123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sunday                   153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Monday – Friday   ████████████████████  10–12 hrs / day
+Saturday – Sunday ██████░░░░░░░░░░░░░░   3–4  hrs / day
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-YAML                     5 hrs 39 mins       █████████████░░░░░░░░░░░░   51.61 % 
-Dart                     2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Makefile                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-justfile                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-
-🔥 Editors: 
-IntelliJ IDEA            5 hrs 42 mins       █████████████░░░░░░░░░░░░   51.96 % 
-Android Studio           5 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.04 % 
-
-💻 Operating System: 
-Mac                      10 hrs 58 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     41 repos            ████████████████░░░░░░░░░   62.12 % 
-C++                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-D2                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-<!--END_SECTION:waka-->
+**About 56–68 hours in a typical week.** These are self-reported estimates of my routine, not automatically tracked coding time. The bars compare the midpoints of those ranges; they aren't language percentages or commit counts.
 
 </details>
 
 ---
 
-**Let's talk software.** For a project, an open-source collaboration, or a session on full-stack engineering or Flutter, [reach me on LinkedIn](https://linkedin.com/in/ajaykumar2114).
+<p align="center"><strong>Find me around the internet</strong></p>
+<p align="center">
+  <a href="https://linkedin.com/in/ajaykumar2114"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/iajaykumar_14"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&amp;style=for-the-badge&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@ajay.kumar_14"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;style=for-the-badge&amp;logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/2868455"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&amp;style=for-the-badge&amp;logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/AjayK_14"><img src="https://img.shields.io/badge/X_%2F_Twitter-111111?logo=x&amp;style=for-the-badge&amp;logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&amp;style=for-the-badge&amp;logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.buymeacoffee.com/projectaj"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buymeacoffee&amp;style=for-the-badge&amp;logoColor=black" alt="Buy Me a Coffee" /></a>
+</p>
