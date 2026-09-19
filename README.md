@@ -14,45 +14,88 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ---
 
-## Across the stack
+## My toolbox
 
-| Layer | What I work with |
-| :--- | :--- |
-| **Web** | React, TypeScript, JavaScript, MUI, HTML & CSS |
-| **Backend** | Java, Spring Boot, Django, Firebase |
-| **Data** | MongoDB, MySQL, SQLite |
-| **Cloud & delivery** | Google Cloud, Docker, GitHub Actions, Jenkins, Linux |
-| **Mobile** | Flutter, Dart, Kotlin, Swift, Android & iOS |
+**Web & UI**
 
-I like being able to follow a feature all the way through: from a screen, through an API, down to the data, and out into a release. That context makes the individual decisions better.
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI" height="44" />
 
-## A few things I've built
+<sub>React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI</sub>
 
-### [Eklavya ↗](https://github.com/ProjectAJ14/eklavya)
-**Developer tools · TypeScript · AI-assisted learning**
+**Backend & APIs**
 
-A Claude Code plugin that asks you about the concepts behind the code your agent just wrote. Adaptive questions, spaced repetition, and a local knowledge graph help you understand what you're shipping.
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,django,firebase&amp;theme=dark" alt="Java, Spring Boot, Node.js, Django, Firebase" height="44" />
 
-[Explore the docs](https://eklavya-run.web.app/docs/)
+<sub>Java, Spring Boot, Node.js, Django, Firebase</sub>
 
-### [Morph ↗](https://github.com/ProjectAJ14/Morph)
-**Desktop · TypeScript · AI**
+**Data & delivery**
 
-Copy a rough message, hit a shortcut, and paste a version formatted for Slack, Teams, or Markdown. A small app built around a task I wanted to make easier.
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,gcp,docker,githubactions&amp;theme=dark" alt="MongoDB, MySQL, SQLite, Google Cloud, Docker, GitHub Actions" height="44" />
 
-[Get the app](https://projectaj14.github.io/Morph/)
+<sub>MongoDB, MySQL, SQLite, Google Cloud, Docker, GitHub Actions</sub>
 
-### [Flutter Coverage Action ↗](https://github.com/ProjectAJ14/flutter-coverage-action)
-**CI/CD · GitHub Actions · Developer experience**
+**Mobile & desktop**
 
-Turns Flutter test coverage into browsable reports on GitHub Pages, so the results are easier to inspect during review.
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,electron&amp;theme=dark" alt="Flutter, Dart, Kotlin, Swift, Electron" height="44" />
 
-[See a report](https://projectaj14.github.io/flutter-coverage-action/coverage/)
+<sub>Flutter, Dart, Kotlin, Swift, Electron</sub>
 
-### [dzod ↗](https://pub.dev/packages/dzod)
-**Dart · Schema validation · Libraries**
+**Everyday tools**
 
-Zod-inspired schema validation for Dart, with type-safe parsing and validation. Part of my broader work on reusable Dart and Flutter packages.
+<img src="https://skillicons.dev/icons?i=git,linux,jenkins,figma,html,css&amp;theme=dark" alt="Git, Linux, Jenkins, Figma, HTML, CSS" height="44" />
+
+<sub>Git, Linux, Jenkins, Figma, HTML, CSS</sub>
+
+
+---
+
+## Building in public at NonStop io
+
+A lot of my open-source work lives at [NonStop io](https://github.com/nonstopio). Here are three projects I've helped build, with a few of my contributions you can dig into.
+
+### 🧭 [JSON Viewer](https://github.com/nonstopio/json-viewer)
+**React · TypeScript · Tailwind CSS · Vite**
+
+A tool for exploring JSON as a tree or an interactive graph. I've worked on the navigator, deep links that open a document directly in the viewer, and the deployment pipeline.
+
+[Try it](https://json.nonstopio.com) &nbsp; / &nbsp; [Navigation](https://github.com/nonstopio/json-viewer/pull/7) &nbsp; / &nbsp; [Deep links](https://github.com/nonstopio/json-viewer/pull/4) &nbsp; / &nbsp; [CI/CD](https://github.com/nonstopio/json-viewer/pull/1)
+
+### 🎙️ [Narad Muni](https://github.com/nonstopio/Narad-Muni)
+**Next.js · TypeScript · Electron · Firebase · AI integrations**
+
+Record a daily update once, then preview and send it to Slack, Teams, and Jira. I started this project and have worked on its Firebase migration, AI provider integrations, and the small details that make it useful every day.
+
+[Get the app](https://nonstopio.github.io/Narad-Muni/) &nbsp; / &nbsp; [Firebase migration](https://github.com/nonstopio/Narad-Muni/pull/7) &nbsp; / &nbsp; [AI providers](https://github.com/nonstopio/Narad-Muni/pull/10)
+
+### 🔨 [Flutter Forge](https://github.com/nonstopio/flutter_forge)
+**Dart · Flutter · Melos · CLI tooling · GitHub Actions**
+
+The home of much of my Dart and Flutter package work: NonStop CLI, dzod, html_rich_text, morse_tap, and more. My contributions span project generation, libraries, documentation, tests, and release workflows.
+
+[Explore the packages](https://github.com/nonstopio/flutter_forge/tree/main/packages) &nbsp; / &nbsp; [CLI starter](https://github.com/nonstopio/flutter_forge/pull/44) &nbsp; / &nbsp; [dzod](https://github.com/nonstopio/flutter_forge/pull/26) &nbsp; / &nbsp; [My commits](https://github.com/nonstopio/flutter_forge/commits?author=ProjectAJ14)
+
+---
+
+## More things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 <a href="https://github.com/ProjectAJ14/eklavya">Eklavya</a></h3>
+<p>A Claude Code plugin that helps you understand the code your agent writes, with adaptive questions and a local knowledge graph.</p>
+<p><sub>TypeScript · Developer tools · Learning</sub></p>
+<a href="https://eklavya-run.web.app/docs/">Read the docs →</a>
+</td>
+<td width="50%" valign="top">
+<h3>✍️ <a href="https://github.com/ProjectAJ14/Morph">Morph</a></h3>
+<p>Copy a rough message, hit a shortcut, and paste a version formatted for Slack, Teams, or Markdown.</p>
+<p><sub>TypeScript · Desktop · AI</sub></p>
+<a href="https://projectaj14.github.io/Morph/">Get the app →</a>
+</td>
+</tr>
+</table>
+
+**[Flutter Coverage Action](https://github.com/ProjectAJ14/flutter-coverage-action)** — Browsable Flutter coverage reports on GitHub Pages. [See a report ↗](https://projectaj14.github.io/flutter-coverage-action/coverage/)
 
 <details>
 <summary><b>More from my Dart & Flutter toolbox</b></summary>
