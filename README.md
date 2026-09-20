@@ -85,7 +85,12 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" /><br />
   <img src="https://img.shields.io/badge/Claude_Design-D97757?style=for-the-badge" alt="Claude Design" />
   <img src="https://img.shields.io/badge/Kimi-5865F2?style=for-the-badge" alt="Kimi" />
-  <img src="https://img.shields.io/badge/Cursor-252525?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Cursor-252525?style=for-the-badge" alt="Cursor" /><br />
+  <img src="https://img.shields.io/badge/Grok-111111?style=for-the-badge" alt="Grok" />
+  <img src="https://img.shields.io/badge/Comet_AI_Browser-20808D?style=for-the-badge" alt="Comet AI Browser" />
+  <img src="https://img.shields.io/badge/Claude_Desktop-D97757?style=for-the-badge" alt="Claude Desktop" /><br />
+  <img src="https://img.shields.io/badge/Core_App-5865F2?style=for-the-badge" alt="Core app" />
+  <img src="https://img.shields.io/badge/ChatGPT_Desktop-10A37F?style=for-the-badge" alt="ChatGPT Desktop" />
 </p>
 
 ---
