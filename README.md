@@ -133,18 +133,32 @@ I write, make videos, and run technical sessions. Past talks and workshops have 
 <!-- BLOG-POST-LIST:END -->
 
 <details open>
-<summary><b>Activity & current focus</b></summary>
+<summary><b>📊 Activity stats</b></summary>
 
-**Mostly building with React, TypeScript, Java, and Spring Boot.** Codex is part of my daily workflow.
+<sub>Typical week · estimated hours and language mix</sub>
 
-My typical coding routine, estimated by me:
+**💻 Coding time — ~62 hrs / week**
 
 ```text
-Monday – Friday   ████████████████████  10–12 hrs / day
-Saturday – Sunday ██████░░░░░░░░░░░░░░   3–4  hrs / day
+Monday       11 hrs       ██████████████████████
+Tuesday      11 hrs       ██████████████████████
+Wednesday    11 hrs       ██████████████████████
+Thursday     11 hrs       ██████████████████████
+Friday       11 hrs       ██████████████████████
+Saturday      3 hrs 30 m  ███████░░░░░░░░░░░░░░░
+Sunday        3 hrs 30 m  ███████░░░░░░░░░░░░░░░
 ```
 
-**About 56–68 hours in a typical week.** These are self-reported estimates of my routine, not automatically tracked coding time. The bars compare the midpoints of those ranges; they aren't language percentages or commit counts.
+**🧩 Languages & frameworks**
+
+```text
+Java · Spring Boot    ~28 hrs  █████████░░░░░░░░░░░  ~45%
+TypeScript · React    ~25 hrs  ████████░░░░░░░░░░░░  ~40%
+JavaScript             ~6 hrs  ██░░░░░░░░░░░░░░░░░░  ~10%
+Dart · Flutter         ~3 hrs  █░░░░░░░░░░░░░░░░░░░   ~5%
+```
+
+**🛠️ Daily workflow** &nbsp; React + TypeScript · Java + Spring Boot · Codex
 
 </details>
 
