@@ -72,6 +72,24 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ---
 
+<h2 align="center">AI tools in my daily workflow</h2>
+
+<p align="center">
+  I use AI agents and tools heavily in my day-to-day work.<br />
+  These are the ones I keep coming back to.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-74AA9C?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" /><br />
+  <img src="https://img.shields.io/badge/Claude_Design-D97757?style=for-the-badge" alt="Claude Design" />
+  <img src="https://img.shields.io/badge/Kimi-5865F2?style=for-the-badge" alt="Kimi" />
+  <img src="https://img.shields.io/badge/Cursor-252525?style=for-the-badge" alt="Cursor" />
+</p>
+
+---
+
 ## Building in public at NonStop io
 
 A lot of my open-source work lives at [NonStop io](https://github.com/nonstopio). Here are three projects I've helped build, with a few of my contributions you can dig into.
