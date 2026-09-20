@@ -15,5 +15,5 @@ This is a **GitHub profile README repository** (github.com/ProjectAJ14/ProjectAJ
 ## Key Details
 
 - The `<!-- BLOG-POST-LIST:START -->` / `<!-- BLOG-POST-LIST:END -->` markers in README.md are auto-populated by the workflow — do not manually edit content between them.
-- The `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` section is managed by WakaTime — do not manually edit content between them.
-- The owner is a Flutter/Dart expert who maintains several open-source packages on pub.dev.
+- The activity section is a manually maintained, self-reported routine. WakaTime is no longer used; do not add generated tracking markers or present estimates as measured activity.
+- The owner is a full-stack engineer with 10+ years of experience, currently focused on React/TypeScript and Java/Spring Boot, with public NonStop io contributions and Flutter/Dart packages.

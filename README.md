@@ -1,60 +1,146 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <img src="assets/profile-header-portrait.svg" alt="Ajay Kumar — Full-stack engineer. From the first screen to the last mile. Web, backend, data, cloud and mobile." width="100%" />
+</p>
 
-### Full-stack engineer with a decade of experience building products end-to-end — React/TypeScript on the front, Java/Spring Boot on the back, and Flutter for mobile. Long-time Flutter contributor with several pub.dev packages; now shipping across the whole stack.
+# Hey, I'm Ajay.
 
-# 🌱 What I'm currently learning
+**Full-stack engineer · 10+ years building software · Open-source builder & speaker**
 
-👨🏾‍💻 Going deeper on backend systems with Spring Boot and modern React patterns on the frontend, while continuing to
-create Flutter content — YouTube videos and Teachable courses. Always excited to share knowledge across the stack and
-pick up whatever cool tech catches my eye next! 🚀
+I build products end to end: the interface people use, the APIs behind it, the data they depend on, and the path to production. Right now, most of my work is in **React / TypeScript** and **Java / Spring Boot**, with databases, cloud, and mobile rounding out the stack.
 
-<br>
-⚡ "The more I learn, the more I realize how much I don't know." ― Albert Einstein
-<br>
+Flutter has been a big part of my journey. These days, I work across the stack, and I still enjoy turning the awkward, repetitive parts of development into tools other people can use.
 
-> **Note:** I'm available to speak at events or join panel discussions on Flutter, full-stack architecture, React, or Spring Boot. Feel free to reach out for your conference or meetup.
+[LinkedIn](https://linkedin.com/in/ajaykumar2114) &nbsp; / &nbsp; [Writing](https://medium.com/@ajay.kumar_14) &nbsp; / &nbsp; [YouTube](https://www.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g) &nbsp; / &nbsp; [Stack Overflow](https://stackoverflow.com/users/2868455)
 
-## 🔥 Past Talks and Workshops
+---
 
-- [Flutter & AI Fusion: Powering Apps with Intelligence](https://www.linkedin.com/posts/ajaykumar2114_flutter-flutternagpur-fluttercommunity-activity-7167534526716428288-DBK4?utm_source=share&utm_medium=member_desktop)
-- [Debug Like a Pro: Harnessing the Power of Dart DevTools in Flutter]()
-- [Flutter Go Router In Depth]()
-- [Flutter Workshop: Consuming APIs like an Expert]()
-- [Git For Kids]()
-- [Flutter Workshop: Mastering Flutter BLoC]()
+## Building in public
 
-## ❤️ Fan of Open Source
+Products I build and maintain. Most are solo projects.
 
-- [timer_button](https://pub.dev/packages/timer_button) - A versatile Flutter package that provides a timer button
-  widget, which becomes enabled after a specified time delay.
-- [connectivity_wrapper](https://pub.dev/packages/connectivity_wrapper) - This plugin allows Flutter apps provide
-  feedback on your app when it's not connected to it, or when there's no connection.
-- [ns_utils](https://pub.dev/packages/ns_utils) - ns_utils is a powerful Flutter utility library that simplifies and
-  enhances your Flutter app development experience.
-- [ns_firebase_utils](https://pub.dev/packages/ns_firebase_utils) - This package provides a comprehensive set of methods
-  and extensions for Firebase, simplifying its integration into your Flutter projects while also adding valuable
-  functionality.
-- [ns_upi](https://pub.dev/packages/ns_upi) - Find installed UPI payment apps on your phone and make payments using any
-  one of them.
-- [nonstop_cli](https://pub.dev/packages/nonstop_cli) - A command-line interface for the Flutter Framework to generate Flutter projects, features and schemas.
-- [flutter_diff_action](https://github.com/ProjectAJ14/flutter_diff_action) - Run Flutter/Dart commands with diff checking capabilities.
-- [flutter-coverage-action](https://github.com/marketplace/actions/flutter-coverage-action) - A GitHub Action to generate and deploy coverage reports to GitHub Pages with style! ✨
-- [cli_core](https://pub.dev/packages/cli_core) - A shared utility package for CLI operations in Flutter Forge packages, providing utilities for CLI commands, Flutter project management, Melos workspace management, and file operations.
-- [ns_intl_phone_input](https://pub.dev/packages/ns_intl_phone_input) - Package for international phone number input with country code.
-- [dzod](https://pub.dev/packages/dzod) - A powerful Dart schema validation library inspired by Zod, providing type-safe validation, parsing, and inference with excellent developer experience.
-- [html_rich_text](https://pub.dev/packages/html_rich_text) - A lightweight Flutter package for rendering HTML-styled text without heavy dependencies. Perfect for simple HTML text rendering with minimal overhead.
-- [morse_tap](https://pub.dev/packages/morse_tap) - A Flutter package for Morse code input using intuitive gestures. Detect patterns, convert text in real-time, and create interactive Morse experiences.
-- [contact_permission](https://pub.dev/packages/contact_permission) - A plugin for Flutter that requests and verifies contact permissions.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 <a href="https://github.com/ProjectAJ14/eklavya">Eklavya</a></h3>
+<p>A Claude Code plugin that helps you understand the code your agent writes, with adaptive questions and a local knowledge graph.</p>
+<p><sub>TypeScript · Developer tools · Learning</sub></p>
+<a href="https://eklavya-run.web.app/docs/">Read the docs →</a>
+</td>
+<td width="50%" valign="top">
+<h3>✍️ <a href="https://github.com/ProjectAJ14/Morph">Morph</a></h3>
+<p>Copy a rough message, hit a shortcut, and paste a version formatted for Slack, Teams, or Markdown.</p>
+<p><sub>TypeScript · Desktop · AI</sub></p>
+<a href="https://projectaj14.github.io/Morph/">Get the app →</a>
+</td>
+</tr>
+</table>
 
-I value collaborative development and actively seek open-source projects that match my principles — across Flutter,
-JavaScript/TypeScript, Java, and beyond. I'm eager to contribute code, documentation, or technical expertise to
-initiatives I believe in.
+---
 
-# 📹 Youtube [<img src="https://img.shields.io/youtube/channel/subscribers/UCyV2fy32RyPgOco83tMkR-g?style=social" />][youtube] [<img src="https://img.shields.io/youtube/channel/views/UCyV2fy32RyPgOco83tMkR-g?style=social" />][youtube]
+<h2 align="center">My toolbox</h2>
 
-- [Passwordless authentication in Flutter with Firebase using dynamic links](https://www.youtube.com/watch?v=JHTSgFl8VH0)
+<p align="center">
+  <strong>My daily stack</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,ts,java,spring&amp;theme=dark" alt="React, TypeScript, Java, Spring Boot" height="56" /><br />
+  <sub>React & TypeScript on the frontend · Java & Spring Boot on the backend</sub>
+</p>
 
-# 📕 Latest Blog Posts
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+<strong>Web & APIs</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=nextjs,js,tailwind,materialui,nodejs,django&amp;perline=3&amp;theme=dark" alt="Next.js, JavaScript, Tailwind CSS, MUI, Node.js, Django" width="140" />
+<p><sub>Next.js · JavaScript · Tailwind · MUI · Node.js · Django</sub></p>
+</td>
+<td width="50%" valign="top" align="center">
+<strong>Data & cloud</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,gcp,docker&amp;perline=3&amp;theme=dark" alt="Firebase, MongoDB, MySQL, SQLite, Google Cloud, Docker" width="140" />
+<p><sub>Firebase · MongoDB · MySQL · SQLite · Google Cloud · Docker</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<strong>Mobile & desktop</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,electron&amp;perline=3&amp;theme=dark" alt="Flutter, Dart, Kotlin, Swift, Electron" width="140" />
+<p><sub>Flutter · Dart · Kotlin · Swift · Electron</sub></p>
+</td>
+<td width="50%" valign="top" align="center">
+<strong>Tools & delivery</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=git,githubactions,linux,jenkins,figma&amp;perline=3&amp;theme=dark" alt="Git, GitHub Actions, Linux, Jenkins, Figma" width="140" />
+<p><sub>Git · GitHub Actions · Linux · Jenkins · Figma</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">AI tools in my daily workflow</h2>
+
+<p align="center">
+  I use AI agents and tools heavily in my day-to-day work.<br />
+  These are the ones I keep coming back to.
+</p>
+
+<p align="center">
+  <img src="assets/ai-tools/toolkit.svg" alt="Claude Code, Codex, ChatGPT, Cursor, Claude Design, Kimi, Grok, Comet AI Browser, Claude Desktop, Claude Cowork, and ChatGPT Desktop" width="100%" />
+</p>
+
+---
+
+## More open-source work
+
+More of my open-source work, from everyday developer tools to reusable libraries.
+
+### 🧭 [JSON Viewer](https://github.com/nonstopio/json-viewer)
+**React · TypeScript · Tailwind CSS · Vite**
+
+A browser-based JSON explorer with tree and graph views, search, and a navigator for large documents. Shareable deep links open JSON directly in the viewer, with parsing handled entirely in the browser.
+
+[Try it](https://json.nonstopio.com) &nbsp; / &nbsp; [Source code](https://github.com/nonstopio/json-viewer)
+
+### 🎙️ [Narad Muni](https://github.com/nonstopio/Narad-Muni)
+**Next.js · TypeScript · Electron · Firebase · AI integrations**
+
+A desktop app that turns a voice recording or typed update into formatted Slack and Teams messages and Jira work logs. AI extracts tasks, blockers, and time entries; you review the output before publishing.
+
+[Get the app](https://nonstopio.github.io/Narad-Muni/) &nbsp; / &nbsp; [Source code](https://github.com/nonstopio/Narad-Muni)
+
+### 🔨 [Flutter Forge](https://github.com/nonstopio/flutter_forge)
+**Dart · Flutter · Melos · CLI tooling · GitHub Actions**
+
+A collection of Dart and Flutter packages, plugins, and CLI tools. NonStop CLI generates app starters with tests and CI; packages such as dzod, html_rich_text, and morse_tap cover schema validation, rich text, and gesture-based input.
+
+[Explore the packages](https://github.com/nonstopio/flutter_forge/tree/main/packages) &nbsp; / &nbsp; [NonStop CLI](https://pub.dev/packages/nonstop_cli) &nbsp; / &nbsp; [dzod](https://pub.dev/packages/dzod)
+
+---
+
+**[Flutter Coverage Action](https://github.com/ProjectAJ14/flutter-coverage-action)** — Browsable Flutter coverage reports on GitHub Pages. [See a report ↗](https://projectaj14.github.io/flutter-coverage-action/coverage/)
+
+<details>
+<summary><b>More from my Dart & Flutter toolbox</b></summary>
+
+- [timer_button](https://pub.dev/packages/timer_button) — Buttons with a timed delay before they can be pressed.
+- [connectivity_wrapper](https://pub.dev/packages/connectivity_wrapper) — Connection feedback for Flutter apps.
+- [ns_utils](https://pub.dev/packages/ns_utils) — Everyday Flutter utilities and extensions.
+- [ns_firebase_utils](https://pub.dev/packages/ns_firebase_utils) — Helpers for Firebase integration.
+- [ns_upi](https://pub.dev/packages/ns_upi) — Discover UPI apps and initiate payments.
+- [nonstop_cli](https://pub.dev/packages/nonstop_cli) — Generate Flutter projects, features, and schemas.
+- [flutter_diff_action](https://github.com/ProjectAJ14/flutter_diff_action) — Run Flutter and Dart commands with diff checks.
+- [cli_core](https://pub.dev/packages/cli_core) — Shared utilities for CLI and workspace operations.
+- [ns_intl_phone_input](https://pub.dev/packages/ns_intl_phone_input) — International phone number input.
+- [html_rich_text](https://pub.dev/packages/html_rich_text) — Lightweight HTML-styled text rendering.
+- [morse_tap](https://pub.dev/packages/morse_tap) — Gesture-based Morse code input.
+- [contact_permission](https://pub.dev/packages/contact_permission) — Request and check contact permissions.
+
+</details>
+
+## Sharing what I learn
+
+I write, make videos, and run technical sessions. Past talks and workshops have covered Flutter & AI, Dart DevTools, Go Router, API integration, BLoC, and Git for kids.
+
+[Flutter & AI Fusion: Powering Apps with Intelligence](https://www.linkedin.com/posts/ajaykumar2114_flutter-flutternagpur-fluttercommunity-activity-7167534526716428288-DBK4)
+
+### From the blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Deep Dive into Flutter Create](https://blog.nonstopio.com/deep-dive-into-flutter-create-f629f3926d82?source=rss-809bf38703df------2)
@@ -64,120 +150,45 @@ initiatives I believe in.
 - [Host Flutter Web on Github Pages using Github Actions #FREE](https://blog.nonstopio.com/host-flutter-web-on-github-pages-using-github-actions-free-168585ec2981?source=rss-809bf38703df------2)
 <!-- BLOG-POST-LIST:END -->
 
-# 🌐 Socials
+<details open>
+<summary><b>📊 Activity stats</b></summary>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)][instagram]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][linkedin]
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)][medium]
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)][stackoverflow]
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)][twitter]
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)][youtube]
+<sub>Typical week · estimated hours and language mix</sub>
 
-# 💻 Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Cloud**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Mobile**
-
-![iOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**DevOps & Tooling**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-**Design & Project**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# Stats
-
-[![](https://visitcount.itsvg.in/api?id=projectaj14&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C254%20hrs%2055%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
+**💻 Coding time — ~66 hrs 06 min / week**
 
 ```text
-🌞 Morning                338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                859 commits         ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌃 Evening                1080 commits        ██████████░░░░░░░░░░░░░░░   41.80 % 
-🌙 Night                  307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Monday      11 hrs 42 min  ███████████████████████░
+Tuesday     11 hrs 57 min  ████████████████████████
+Wednesday   11 hrs 36 min  ███████████████████████░
+Thursday    11 hrs 53 min  ████████████████████████
+Friday      11 hrs 47 min  ████████████████████████
+Saturday     3 hrs 23 min  ███████░░░░░░░░░░░░░░░░░
+Sunday       3 hrs 48 min  ████████░░░░░░░░░░░░░░░░
 ```
-📅 **I'm Most Productive on Monday** 
+
+**🧩 Languages & frameworks**
 
 ```text
-Monday                   673 commits         ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Tuesday                  598 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Wednesday                180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Thursday                 316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Friday                   541 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Saturday                 123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sunday                   153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Java · Spring Boot   ~29 hrs 45 min  █████████░░░░░░░░░░░  ~45%
+TypeScript · React   ~26 hrs 26 min  ████████░░░░░░░░░░░░  ~40%
+JavaScript           ~ 6 hrs 37 min  ██░░░░░░░░░░░░░░░░░░  ~10%
+Dart · Flutter       ~ 3 hrs 18 min  █░░░░░░░░░░░░░░░░░░░  ~5%
 ```
 
+**🛠️ Daily workflow** &nbsp; React + TypeScript · Java + Spring Boot · Codex
 
-📊 **This Week I Spent My Time On** 
+</details>
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+---
 
-💬 Programming Languages: 
-YAML                     5 hrs 39 mins       █████████████░░░░░░░░░░░░   51.61 % 
-Dart                     2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Makefile                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-justfile                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-
-🔥 Editors: 
-IntelliJ IDEA            5 hrs 42 mins       █████████████░░░░░░░░░░░░   51.96 % 
-Android Studio           5 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.04 % 
-
-💻 Operating System: 
-Mac                      10 hrs 58 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     41 repos            ████████████████░░░░░░░░░   62.12 % 
-C++                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-D2                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-<!--END_SECTION:waka-->
-
-
-### 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/projectaj)
-
-
-[instagram]: https://www.instagram.com/iajaykumar_14
-
-[linkedin]: https://linkedin.com/in/ajaykumar2114
-
-[medium]: https://medium.com/@ajay.kumar_14
-
-[stackoverflow]: https://stackoverflow.com/users/2868455
-
-[youtube]: https://www.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g
-
-[twitter]: https://twitter.com/AjayK_14
+<p align="center"><strong>Find me around the internet</strong></p>
+<p align="center">
+  <a href="https://linkedin.com/in/ajaykumar2114"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/iajaykumar_14"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&amp;style=for-the-badge&amp;logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@ajay.kumar_14"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;style=for-the-badge&amp;logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/2868455"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stackoverflow&amp;style=for-the-badge&amp;logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://twitter.com/AjayK_14"><img src="https://img.shields.io/badge/X_%2F_Twitter-111111?logo=x&amp;style=for-the-badge&amp;logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.youtube.com/channel/UCyV2fy32RyPgOco83tMkR-g"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&amp;style=for-the-badge&amp;logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.buymeacoffee.com/projectaj"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buymeacoffee&amp;style=for-the-badge&amp;logoColor=black" alt="Buy Me a Coffee" /></a>
+</p>
