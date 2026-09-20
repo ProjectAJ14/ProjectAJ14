@@ -1,0 +1,1 @@
+App logo artwork from [Lobe Icons](https://github.com/lobehub/lobe-icons), under the included MIT license. Badge layouts are local SVGs. Claude Design and Claude Desktop use the Claude brand mark; ChatGPT variants use the OpenAI mark. Comet uses the Perplexity brand mark. Product names and marks belong to their respective owners.
