@@ -82,17 +82,7 @@ Products I build and maintain. Most are solo projects.
 </p>
 
 <p align="center">
-  <img src="assets/ai-tools/claude-code.svg" alt="Claude Code" height="36" />
-  <img src="assets/ai-tools/codex.svg" alt="Codex" height="36" />
-  <img src="assets/ai-tools/chatgpt.svg" alt="ChatGPT" height="36" /><br />
-  <img src="assets/ai-tools/claude-design.svg" alt="Claude Design" height="36" />
-  <img src="assets/ai-tools/kimi.svg" alt="Kimi" height="36" />
-  <img src="assets/ai-tools/cursor.svg" alt="Cursor" height="36" /><br />
-  <img src="assets/ai-tools/grok.svg" alt="Grok" height="36" />
-  <img src="assets/ai-tools/comet.svg" alt="Comet AI Browser" height="36" />
-  <img src="assets/ai-tools/claude-desktop.svg" alt="Claude Desktop" height="36" /><br />
-  <img src="assets/ai-tools/claude-cowork.svg" alt="Claude Cowork" height="36" />
-  <img src="assets/ai-tools/chatgpt-desktop.svg" alt="ChatGPT Desktop" height="36" />
+  <img src="assets/ai-tools/toolkit.svg" alt="Claude Code, Codex, ChatGPT, Cursor, Claude Design, Kimi, Grok, Comet AI Browser, Claude Desktop, Claude Cowork, and ChatGPT Desktop" width="100%" />
 </p>
 
 ---
