@@ -35,40 +35,37 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ---
 
-## My toolbox
+<h2 align="center">My toolbox</h2>
 
 <p align="center">
   <strong>My daily stack</strong><br /><br />
-  <img src="https://skillicons.dev/icons?i=react,ts,java,spring&amp;theme=dark" alt="React, TypeScript, Java, Spring Boot" height="56" /><br />
-  <sub>React & TypeScript on the frontend · Java & Spring Boot on the backend</sub>
+  <img src="https://skillicons.dev/icons?i=react,ts,java,spring&amp;theme=dark" alt="React · TypeScript · Java · Spring Boot" height="56" /><br />
+  <sub>React · TypeScript · Java · Spring Boot</sub>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>Web & APIs</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=nextjs,js,tailwind,materialui,nodejs,django&amp;perline=3&amp;theme=dark" alt="Next.js, JavaScript, Tailwind CSS, MUI, Node.js, Django" width="140" />
-<p><sub>Next.js · JavaScript · Tailwind · MUI · Node.js · Django</sub></p>
-</td>
-<td width="50%" valign="top">
-<strong>Data & cloud</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,gcp,docker&amp;perline=3&amp;theme=dark" alt="Firebase, MongoDB, MySQL, SQLite, Google Cloud, Docker" width="140" />
-<p><sub>Firebase · MongoDB · MySQL · SQLite · Google Cloud · Docker</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Mobile & desktop</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,electron&amp;perline=3&amp;theme=dark" alt="Flutter, Dart, Kotlin, Swift, Electron" width="140" />
-<p><sub>Flutter · Dart · Kotlin · Swift · Electron</sub></p>
-</td>
-<td width="50%" valign="top">
-<strong>Tools & delivery</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=git,githubactions,linux,jenkins,figma&amp;perline=3&amp;theme=dark" alt="Git, GitHub Actions, Linux, Jenkins, Figma" width="140" />
-<p><sub>Git · GitHub Actions · Linux · Jenkins · Figma</sub></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <strong>Web &amp; APIs</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=nextjs,js,tailwind,materialui,nodejs,django&amp;theme=dark" alt="Next.js · JavaScript · Tailwind · MUI · Node.js · Django" height="44" /><br />
+  <sub>Next.js · JavaScript · Tailwind · MUI · Node.js · Django</sub>
+</p>
+
+<p align="center">
+  <strong>Data &amp; cloud</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,gcp,docker&amp;theme=dark" alt="Firebase · MongoDB · MySQL · SQLite · Google Cloud · Docker" height="44" /><br />
+  <sub>Firebase · MongoDB · MySQL · SQLite · Google Cloud · Docker</sub>
+</p>
+
+<p align="center">
+  <strong>Mobile &amp; desktop</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,electron&amp;theme=dark" alt="Flutter · Dart · Kotlin · Swift · Electron" height="44" /><br />
+  <sub>Flutter · Dart · Kotlin · Swift · Electron</sub>
+</p>
+
+<p align="center">
+  <strong>Tools &amp; delivery</strong><br /><br />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,linux,jenkins,figma&amp;theme=dark" alt="Git · GitHub Actions · Linux · Jenkins · Figma" height="44" /><br />
+  <sub>Git · GitHub Actions · Linux · Jenkins · Figma</sub>
+</p>
 
 ---
 
