@@ -140,25 +140,25 @@ I write, make videos, and run technical sessions. Past talks and workshops have 
 
 <sub>Typical week · estimated hours and language mix</sub>
 
-**💻 Coding time — ~62 hrs / week**
+**💻 Coding time — ~66 hrs 06 min / week**
 
 ```text
-Monday       11 hrs       ██████████████████████
-Tuesday      11 hrs       ██████████████████████
-Wednesday    11 hrs       ██████████████████████
-Thursday     11 hrs       ██████████████████████
-Friday       11 hrs       ██████████████████████
-Saturday      3 hrs 30 m  ███████░░░░░░░░░░░░░░░
-Sunday        3 hrs 30 m  ███████░░░░░░░░░░░░░░░
+Monday      11 hrs 42 min  ███████████████████████░
+Tuesday     11 hrs 57 min  ████████████████████████
+Wednesday   11 hrs 36 min  ███████████████████████░
+Thursday    11 hrs 53 min  ████████████████████████
+Friday      11 hrs 47 min  ████████████████████████
+Saturday     3 hrs 23 min  ███████░░░░░░░░░░░░░░░░░
+Sunday       3 hrs 48 min  ████████░░░░░░░░░░░░░░░░
 ```
 
 **🧩 Languages & frameworks**
 
 ```text
-Java · Spring Boot    ~28 hrs  █████████░░░░░░░░░░░  ~45%
-TypeScript · React    ~25 hrs  ████████░░░░░░░░░░░░  ~40%
-JavaScript             ~6 hrs  ██░░░░░░░░░░░░░░░░░░  ~10%
-Dart · Flutter         ~3 hrs  █░░░░░░░░░░░░░░░░░░░   ~5%
+Java · Spring Boot   ~29 hrs 45 min  █████████░░░░░░░░░░░  ~45%
+TypeScript · React   ~26 hrs 26 min  ████████░░░░░░░░░░░░  ~40%
+JavaScript           ~ 6 hrs 37 min  ██░░░░░░░░░░░░░░░░░░  ~10%
+Dart · Flutter       ~ 3 hrs 18 min  █░░░░░░░░░░░░░░░░░░░  ~5%
 ```
 
 **🛠️ Daily workflow** &nbsp; React + TypeScript · Java + Spring Boot · Codex
