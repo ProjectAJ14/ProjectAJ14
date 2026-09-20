@@ -16,6 +16,8 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ## Building in public
 
+Products I build and maintain. Most are solo projects.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -97,28 +99,28 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ## More open-source work
 
-A few more projects I've contributed to, from developer tools to reusable libraries. Follow the links to explore the code and my contributions.
+More of my open-source work, from everyday developer tools to reusable libraries.
 
 ### 🧭 [JSON Viewer](https://github.com/nonstopio/json-viewer)
 **React · TypeScript · Tailwind CSS · Vite**
 
-A tool for exploring JSON as a tree or an interactive graph. I've worked on the navigator, deep links that open a document directly in the viewer, and the deployment pipeline.
+A browser-based JSON explorer with tree and graph views, search, and a navigator for large documents. Shareable deep links open JSON directly in the viewer, with parsing handled entirely in the browser.
 
-[Try it](https://json.nonstopio.com) &nbsp; / &nbsp; [Navigation](https://github.com/nonstopio/json-viewer/pull/7) &nbsp; / &nbsp; [Deep links](https://github.com/nonstopio/json-viewer/pull/4) &nbsp; / &nbsp; [CI/CD](https://github.com/nonstopio/json-viewer/pull/1)
+[Try it](https://json.nonstopio.com) &nbsp; / &nbsp; [Source code](https://github.com/nonstopio/json-viewer)
 
 ### 🎙️ [Narad Muni](https://github.com/nonstopio/Narad-Muni)
 **Next.js · TypeScript · Electron · Firebase · AI integrations**
 
-Record a daily update once, then preview and send it to Slack, Teams, and Jira. I started this project and have worked on its Firebase migration, AI provider integrations, and the small details that make it useful every day.
+A desktop app that turns a voice recording or typed update into formatted Slack and Teams messages and Jira work logs. AI extracts tasks, blockers, and time entries; you review the output before publishing.
 
-[Get the app](https://nonstopio.github.io/Narad-Muni/) &nbsp; / &nbsp; [Firebase migration](https://github.com/nonstopio/Narad-Muni/pull/7) &nbsp; / &nbsp; [AI providers](https://github.com/nonstopio/Narad-Muni/pull/10)
+[Get the app](https://nonstopio.github.io/Narad-Muni/) &nbsp; / &nbsp; [Source code](https://github.com/nonstopio/Narad-Muni)
 
 ### 🔨 [Flutter Forge](https://github.com/nonstopio/flutter_forge)
 **Dart · Flutter · Melos · CLI tooling · GitHub Actions**
 
-The home of much of my Dart and Flutter package work: NonStop CLI, dzod, html_rich_text, morse_tap, and more. My contributions span project generation, libraries, documentation, tests, and release workflows.
+A collection of Dart and Flutter packages, plugins, and CLI tools. NonStop CLI generates app starters with tests and CI; packages such as dzod, html_rich_text, and morse_tap cover schema validation, rich text, and gesture-based input.
 
-[Explore the packages](https://github.com/nonstopio/flutter_forge/tree/main/packages) &nbsp; / &nbsp; [CLI starter](https://github.com/nonstopio/flutter_forge/pull/44) &nbsp; / &nbsp; [dzod](https://github.com/nonstopio/flutter_forge/pull/26) &nbsp; / &nbsp; [My commits](https://github.com/nonstopio/flutter_forge/commits?author=ProjectAJ14)
+[Explore the packages](https://github.com/nonstopio/flutter_forge/tree/main/packages) &nbsp; / &nbsp; [NonStop CLI](https://pub.dev/packages/nonstop_cli) &nbsp; / &nbsp; [dzod](https://pub.dev/packages/dzod)
 
 ---
 
