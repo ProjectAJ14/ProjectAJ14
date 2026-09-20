@@ -14,7 +14,7 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ---
 
-## What I'm working on
+## Building in public
 
 <table>
 <tr>
@@ -90,9 +90,9 @@ Flutter has been a big part of my journey. These days, I work across the stack, 
 
 ---
 
-## Building in public at NonStop io
+## More open-source work
 
-A lot of my open-source work lives at [NonStop io](https://github.com/nonstopio). Here are three projects I've helped build, with a few of my contributions you can dig into.
+A few more projects I've contributed to, from developer tools to reusable libraries. Follow the links to explore the code and my contributions.
 
 ### 🧭 [JSON Viewer](https://github.com/nonstopio/json-viewer)
 **React · TypeScript · Tailwind CSS · Vite**
