@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Ajay Kumar — Full-stack engineer. From the first screen to the last mile. Web, backend, data, cloud and mobile." width="79%" />
-  <a href="https://github.com/ProjectAJ14"><img src="https://avatars.githubusercontent.com/u/35396392?v=4&amp;s=240" alt="Ajay Kumar’s GitHub profile photo" width="18%" /></a>
+  <img src="assets/profile-header.svg" alt="Ajay Kumar — Full-stack engineer. From the first screen to the last mile. Web, backend, data, cloud and mobile." width="100%" />
 </p>
 
 # Hey, I'm Ajay.
