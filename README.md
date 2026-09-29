@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header-portrait.svg" alt="Ajay Kumar — Full-stack engineer. From the first screen to the last mile. Web, backend, data, cloud and mobile." width="100%" />
+  <img src="assets/profile-banners/03-build-systems-dark.png" alt="Ajay Kumar — Building end to end. Full-stack engineer and open-source builder across web, backend, data, cloud and mobile." width="100%" />
 </p>
 
 # Hey, I'm Ajay.
