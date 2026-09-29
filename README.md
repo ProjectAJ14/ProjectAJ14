@@ -72,11 +72,22 @@ Products I build and maintain. Most are solo projects.
 </tr>
 </table>
 
-### More tools & platforms
+<h3 align="center">More tools & platforms</h3>
 
-- **Developer workflow:** [Warp](https://www.warp.dev/) · [Herdr](https://herdr.dev/) · [Azure DevOps (ADO)](https://learn.microsoft.com/en-us/azure/devops/get-started/)
-- **AI & product:** [Azure AI Foundry (formerly Azure AI Studio)](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry) · [Userpilot](https://userpilot.com/)
-- **Observability:** [Last9](https://last9.io/) · [Grafana](https://grafana.com/)
+<table align="center">
+<tr>
+<td width="25%" align="center"><a href="https://www.warp.dev/"><img src="assets/tool-icons/warp.svg" alt="Warp icon" width="56" height="56" /><br /><sub>Warp</sub></a></td>
+<td width="25%" align="center"><a href="https://herdr.dev/"><img src="assets/tool-icons/herdr.png" alt="Herdr icon" width="56" height="56" /><br /><sub>Herdr</sub></a></td>
+<td width="25%" align="center"><a href="https://learn.microsoft.com/en-us/azure/devops/get-started/"><img src="assets/tool-icons/azure-devops.svg" alt="Azure DevOps icon" width="56" height="56" /><br /><sub>Azure DevOps (ADO)</sub></a></td>
+<td width="25%" align="center"><a href="https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry"><img src="assets/tool-icons/azure-ai-foundry.png" alt="Azure AI Foundry icon" width="56" height="56" /><br /><sub>Azure AI Foundry</sub></a></td>
+</tr>
+<tr>
+<td width="25%" align="center"><a href="https://last9.io/"><img src="assets/tool-icons/last9.png" alt="Last9 icon" width="56" height="56" /><br /><sub>Last9</sub></a></td>
+<td width="25%" align="center"><a href="https://grafana.com/"><img src="assets/tool-icons/grafana.svg" alt="Grafana icon" width="56" height="56" /><br /><sub>Grafana</sub></a></td>
+<td width="25%" align="center"><a href="https://userpilot.com/"><img src="assets/tool-icons/userpilot.png" alt="Userpilot icon" width="56" height="56" /><br /><sub>Userpilot</sub></a></td>
+<td width="25%" align="center"><a href="https://firebase.google.com/"><img src="assets/tool-icons/firebase.png" alt="Firebase icon" width="56" height="56" /><br /><sub>Firebase</sub></a></td>
+</tr>
+</table>
 
 ---
 
