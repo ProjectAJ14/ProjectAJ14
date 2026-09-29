@@ -55,7 +55,7 @@ Products I build and maintain. Most are solo projects.
 <td width="50%" valign="top" align="center">
 <strong>Data & cloud</strong><br /><br />
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,gcp,docker&amp;perline=3&amp;theme=dark" alt="Firebase, MongoDB, MySQL, SQLite, Google Cloud, Docker" width="140" />
-<p><sub>Firebase · MongoDB · MySQL · SQLite · Google Cloud · Docker</sub></p>
+<p><sub><a href="https://firebase.google.com/">Firebase</a> · MongoDB · MySQL · SQLite · Google Cloud · Docker</sub></p>
 </td>
 </tr>
 <tr>
@@ -71,6 +71,12 @@ Products I build and maintain. Most are solo projects.
 </td>
 </tr>
 </table>
+
+### More tools & platforms
+
+- **Developer workflow:** [Warp](https://www.warp.dev/) · [Herdr](https://herdr.dev/) · [Azure DevOps (ADO)](https://learn.microsoft.com/en-us/azure/devops/get-started/)
+- **AI & product:** [Azure AI Foundry (formerly Azure AI Studio)](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry) · [Userpilot](https://userpilot.com/)
+- **Observability:** [Last9](https://last9.io/) · [Grafana](https://grafana.com/)
 
 ---
 
